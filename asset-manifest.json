@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/softryzen-finance-ledger-tw/static/css/main.b154559b.css",
+    "main.js": "/softryzen-finance-ledger-tw/static/js/main.80f100b8.js",
+    "static/media/showcase.jpg": "/softryzen-finance-ledger-tw/static/media/showcase.51cab55d982ce4bcedb5.jpg",
+    "static/media/people.jpg": "/softryzen-finance-ledger-tw/static/media/people.f32f74cc55eb8b3518b7.jpg",
+    "static/media/cases4@2x.jpg": "/softryzen-finance-ledger-tw/static/media/cases4@2x.0fd629ab60bf5ec64c34.jpg",
+    "static/media/cases1@2x.jpg": "/softryzen-finance-ledger-tw/static/media/cases1@2x.c2a8d14c6fc4555a3e9a.jpg",
+    "static/media/cases6@2x.jpg": "/softryzen-finance-ledger-tw/static/media/cases6@2x.1eb8161b12e25fdd87bc.jpg",
+    "static/media/cases3@2x.jpg": "/softryzen-finance-ledger-tw/static/media/cases3@2x.1b8fe4e5f06723359075.jpg",
+    "static/media/cases4.jpg": "/softryzen-finance-ledger-tw/static/media/cases4.bc8713e3f48b0aee4eab.jpg",
+    "static/media/blog.jpg": "/softryzen-finance-ledger-tw/static/media/blog.7a77e4040b289e838659.jpg",
+    "static/media/person1.jpg": "/softryzen-finance-ledger-tw/static/media/person1.fd246fc517ebc04c1f67.jpg",
+    "static/media/cases5@2x.jpg": "/softryzen-finance-ledger-tw/static/media/cases5@2x.d5e7d588b5ad9b54c58d.jpg",
+    "static/media/cases1.jpg": "/softryzen-finance-ledger-tw/static/media/cases1.64dcfe4d42845316bcf2.jpg",
+    "static/media/cases2@2x.jpg": "/softryzen-finance-ledger-tw/static/media/cases2@2x.9d87dda932a8ba410e31.jpg",
+    "static/media/contact.jpg": "/softryzen-finance-ledger-tw/static/media/contact.df3181530910b96adc57.jpg",
+    "static/media/cases6.jpg": "/softryzen-finance-ledger-tw/static/media/cases6.68742c6ad9d5c7023ae2.jpg",
+    "static/media/person2.jpg": "/softryzen-finance-ledger-tw/static/media/person2.6d1f75facd2adf912ada.jpg",
+    "static/media/cases3.jpg": "/softryzen-finance-ledger-tw/static/media/cases3.3758803cff01fbec967c.jpg",
+    "static/media/person3.jpg": "/softryzen-finance-ledger-tw/static/media/person3.9f444ad1693a0e346d5f.jpg",
+    "static/media/cases5.jpg": "/softryzen-finance-ledger-tw/static/media/cases5.936cb2fcbdc950fb047d.jpg",
+    "static/media/cases2.jpg": "/softryzen-finance-ledger-tw/static/media/cases2.855b02a74ffed4538fb1.jpg",
+    "index.html": "/softryzen-finance-ledger-tw/index.html",
+    "static/media/worning.svg": "/softryzen-finance-ledger-tw/static/media/worning.e0e344da4042aa31c966b699da04b62c.svg",
+    "static/media/tw.svg": "/softryzen-finance-ledger-tw/static/media/tw.e455471bb1c97dccc86f2812e485d481.svg",
+    "static/media/logo.svg": "/softryzen-finance-ledger-tw/static/media/logo.0f34ccd4b8fb39f56eeee46487a36c95.svg",
+    "static/media/yt.svg": "/softryzen-finance-ledger-tw/static/media/yt.542b7e2833a9f77d921b16adcfbcccfb.svg",
+    "static/media/in.svg": "/softryzen-finance-ledger-tw/static/media/in.e0ecfa0bf8b08ddad4325933bf6d940e.svg",
+    "static/media/fb.svg": "/softryzen-finance-ledger-tw/static/media/fb.8553485219b763d8ae57e77b33d4bcfd.svg",
+    "main.b154559b.css.map": "/softryzen-finance-ledger-tw/static/css/main.b154559b.css.map",
+    "main.80f100b8.js.map": "/softryzen-finance-ledger-tw/static/js/main.80f100b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b154559b.css",
+    "static/js/main.80f100b8.js"
+  ]
+}
