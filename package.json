@@ -2,6 +2,7 @@
   "name": "softryzen-finance-ledger-tw",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pixelboyxl.github.io/softryzen-finance-ledger-tw/",
   "dependencies": {
     "@fancyapps/ui": "^5.0.17",
     "@testing-library/jest-dom": "^5.16.5",
