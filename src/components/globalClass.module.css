@@ -1,0 +1,135 @@
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: calc(25 / 18);
+    color: var(--clearlyWhite);
+    background-color: var(--financeGreeen);
+    transition: var(--cubic--bezier);
+}
+
+button:hover,
+button:focus {
+    background-color: var(--financeAccentGreen);
+}
+
+.main_button_arrow {
+    width: 9px;
+    height: 18px;
+    margin-right: 8px;
+    @media screen and (min-width: 768px) {
+        padding-bottom: 2px;
+    }
+}
+
+.minor_button {
+    margin: 0;
+    border: 1px solid;
+    font-size: 16px;
+    line-height: calc(22 / 16);
+    background-color: transparent;
+    @media screen and (min-width: 768px) {
+        font-size: 18px;
+        line-height: calc(25 / 18);
+    }
+}
+
+.container {
+    width: 280px;
+    margin: 0 auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    @media screen and (min-width: 768px) {
+        width: 700px;
+    }
+    @media screen and (min-width: 1360px) {
+        width: 1304px;
+    }
+}
+
+.app_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pre_title {
+    margin-bottom: 16px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: calc(22 / 16);
+    @media screen and (min-width: 768px) {
+        font-size: 18px;
+        line-height: calc(25 / 18);
+    }
+}
+
+.minor_title {
+    margin-bottom: 24px;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: calc(44 / 32);
+    @media screen and (min-width: 768px) {
+        font-size: 40px;
+        line-height: calc(48 / 40);
+    }
+}
+
+.pre_title,
+.minor_title {
+    color: var(--clearlyWhite);
+}
+
+.after_title {
+    margin-bottom: 24px;
+    width: 279px;
+    height: 176px;
+    @media screen and (min-width: 768px) {
+        width: 336px;
+        height: 175px;
+    }
+    @media screen and (min-width: 1360px) {
+        width: 642px;
+        height: 100px;
+    }
+}
+
+.social_list {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.social_list_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social_list_item:not(:last-child) {
+    margin-right: 25px;
+}
+
+/* .social_href {
+    display: block;
+    padding-top: 2px;
+} */
+
+.social * {
+    transition: var(--cubic--bezier);
+}
+
+.social:hover * {
+    fill: var(--financeGreeen);
+}

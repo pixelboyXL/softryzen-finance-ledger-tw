@@ -1,0 +1,20 @@
+.footer_section {
+    background-color: var(--financeDark);
+    width: 320px;
+    @media screen and (min-width: 768px) {
+        width: 768px;
+    }
+    @media screen and (min-width: 1360px) {
+        width: 1360px;
+    }
+}
+
+.footer_div {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer_title {
+    margin: 0;
+}

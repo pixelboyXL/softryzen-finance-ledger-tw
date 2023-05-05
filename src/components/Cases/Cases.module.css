@@ -1,0 +1,80 @@
+.cases_container {
+    padding-top: 56px;
+    padding-bottom: 40px;
+    text-align: center;
+    @media screen and (min-width: 768px) {
+        padding-top: 48px;
+    }
+    @media screen and (min-width: 1360px) {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+}
+
+.cases_pre_title {
+    @media screen and (min-width: 1360px) {
+        font-size: 18px;
+        line-height: calc(33 / 18);
+    }
+}
+
+.cases_after_title {
+    margin-bottom: 31px;
+}
+
+.cases_minor_title {
+    @media screen and (max-width: 767px) {
+        display: inline-block;
+        width: 219px;
+    }
+    @media screen and (max-width: 1319px) {
+        font-size: 40px;
+        line-height: calc(54 / 40);
+    }
+}
+
+.cases_pre_title,
+.cases_after_title,
+.cases_minor_title {
+    color: var(--justBlack);
+}
+
+.cases_list {
+    @media screen and (min-width: 768px) {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 18px;
+        grid-row-gap: 18px;
+    }
+}
+
+.cases_list_item {
+    cursor: pointer;
+    transition: var(--cubic--bezier);
+}
+
+.cases_list_item:not(:last-child) {
+    @media screen and (max-width: 767px) {
+        margin-bottom: 8px;
+    }
+}
+
+.cases_list_item:hover,
+.cases_list_item:focus {
+    opacity: 0.7;
+}
+
+.cases_img {
+    display: inline-block;
+    width: 280px;
+    height: 176px;
+    object-fit: cover;
+    @media screen and (min-width: 768px) {
+        width: 223px;
+        height: 148px;
+    }
+    @media screen and (min-width: 1360px) {
+        width: 421px;
+        height: 282px;
+    }
+}

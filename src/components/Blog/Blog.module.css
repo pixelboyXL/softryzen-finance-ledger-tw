@@ -1,0 +1,60 @@
+.blog_section {
+    background-color: var(--financeBlue);
+    width: 320px;
+    @media screen and (min-width: 768px) {
+        display: flex;
+        flex-direction: row-reverse;
+        width: 768px;
+    }
+    @media screen and (min-width: 1360px) {
+        width: 1360px;
+    }
+}
+
+.blog_image {
+    display: inline-block;
+    width: 320px;
+    height: 247px;
+    object-fit: cover;
+    @media screen and (min-width: 768px) {
+        width: 368px;
+        height: 493px;
+    }
+    @media screen and (min-width: 1360px) {
+        width: 670px;
+        height: 460px;
+    }
+}
+
+.blog_div {
+    padding-top: 48px;
+    padding-right: 20px;
+    padding-bottom: 58px;
+    padding-left: 20px;
+    @media screen and (min-width: 768px) {
+        padding-top: 59px;
+        padding-right: 32px;
+        padding-bottom: 59px;
+        padding-left: 32px;
+    }
+    @media screen and (min-width: 1360px) {
+        padding-top: 80px;
+        padding-right: 20px;
+        padding-bottom: 80px;
+        padding-left: 28px;
+    }
+}
+
+.blog_minor_title {
+    @media screen and (min-width: 768px) {
+        font-size: 40px;
+        line-height: calc(54 / 40);
+    }
+}
+
+.blog_button:hover,
+.blog_button:focus {
+    border-color: var(--financeBlue);
+    color: var(--financeBlue);
+    background-color: var(--financeGrey);
+}
