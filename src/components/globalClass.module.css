@@ -121,11 +121,6 @@ button:focus {
     margin-right: 25px;
 }
 
-/* .social_href {
-    display: block;
-    padding-top: 2px;
-} */
-
 .social * {
     transition: var(--cubic--bezier);
 }
