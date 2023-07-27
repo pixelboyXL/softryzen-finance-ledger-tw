@@ -57,7 +57,7 @@
 
 .header_logo_first_word {
     display: flex;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 28px;
     line-height: calc(38 / 28);
     color: var(--financeGreeen);
@@ -81,7 +81,7 @@
 
 .header_navigation_item {
     position: relative;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 16px;
     line-height: calc(22 / 16);
     color: var(--clearlyWhite);
@@ -140,7 +140,7 @@
 
 .header_text {
     margin-bottom: 24px;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 26px;
     line-height: calc(32 / 26);
     color: var(--clearlyWhite);

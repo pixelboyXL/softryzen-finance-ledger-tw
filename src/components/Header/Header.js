@@ -12,7 +12,7 @@ export const Header = () => {
                 <div className="header_navigation_bar">
                     <div className="header_logo_wrap">
                         <img src={logo} alt="Logo" className="header_logo_image"/>
-                        <div className="header_logo_first_word">Finance<p className="header_logo_second_word">Ledger</p></div>
+                        <p className="header_logo_first_word">Finance<span className="header_logo_second_word">Ledger</span></p>
                     </div>
                     <ul className="header_navigation_list">
                         <li className="header_navigation_item">Home</li>
